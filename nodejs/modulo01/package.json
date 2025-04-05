@@ -1,0 +1,11 @@
+{
+  "name": "modulo01",
+  "packageManager": "yarn@4.6.0",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.9"
+  },
+  "scripts": {
+    "dev": "yarn nodemon index.js"
+  }
+}
